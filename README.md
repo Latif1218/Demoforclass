@@ -1,4 +1,4 @@
 # Demoforclass
-This is my 2nd repo
+This is my repo
 <br>
-Author - Md abdul Latif
+Author - Md Abdul Latif
